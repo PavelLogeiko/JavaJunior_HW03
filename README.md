@@ -9,5 +9,5 @@
 
 Скрин работы приложения:
 
-![1]()
+![1](https://github.com/PavelLogeiko/JavaJunior_HW03/blob/main/images/1.png)
 
